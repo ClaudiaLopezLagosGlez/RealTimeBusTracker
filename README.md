@@ -13,4 +13,4 @@
 
 ♻️ Roadmap of future improvements:
 
-🌱 License information
+🌱 License information:
