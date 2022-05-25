@@ -1,9 +1,9 @@
 
 ![RTBT](https://user-images.githubusercontent.com/101289219/170180847-c5b15808-a5bf-464f-9bfa-26f01111202a.jpg)
 
-📝 Project Title:
+📌 Project Title:
 
-👀  Demo:
+👀 Demo:
 
 🎯 Description of the project:
 
@@ -13,6 +13,7 @@
 
 ✅ Requirements:
 
-♻️ Roadmap of future improvements:
+♻️ Roadmap of future improvements: 
 
-🌱 License information:
+©️ License information:
+ 
