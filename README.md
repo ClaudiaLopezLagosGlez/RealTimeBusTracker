@@ -16,4 +16,6 @@
 ♻️ Roadmap of future improvements: 
 
 ©️ License information:
+
+ Made with ❤️ by Claudia L.
  
