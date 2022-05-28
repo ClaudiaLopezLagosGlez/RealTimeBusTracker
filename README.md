@@ -5,7 +5,7 @@
 
 👀 [Demo](https://rawcdn.githack.com/ClaudiaLopezLagosGlez/RealTimeBusTracker/be430960333f0a486ca0d7661af51d433ccfaea6/index.html) 
 
-🎯 Description of the project: Description of the project: This is an academic activity that I did as part of the MIT Xpro Full Stack Developer program. It consists of creating a route and giving movement to the icon, on a map.  It is like what Google does in its maps, when a route is indicated.
+🎯 Description of the project: Description of the project: This is an academic activity that I did as part of the MIT Xpro Full Stack Developer program. It consists of creating a route and giving movement to the icon, on a map.  
 
 ✨ How to run:  Work with DOM in JavaScript through mapbox which is an open-source platform that allows you to create and display maps on a web page. A code was added to the mapanimation.js. file and a marker were created and added to the map using mapboxgl's pre-built functions
 
